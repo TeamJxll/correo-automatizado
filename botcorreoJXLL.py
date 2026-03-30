@@ -6,7 +6,7 @@ import time
 from datetime import datetime
 
 # --- Configuración del bot de Telegram ---
-TELEGRAM_TOKEN = "TU_API_KEY_AQUI"   # Reemplaza con tu token real
+TELEGRAM_TOKEN = "8623388213:AAHtQQaedi1hDI9k_NKWyMiIEGyjFb5GkcA"   # Reemplaza con tu token real
 OWNER_ID = 8031278422                # Reemplaza con tu ID de Telegram
 
 # --- Diccionario de keys generadas ---
